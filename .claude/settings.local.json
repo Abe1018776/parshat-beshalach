@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(dir \"C:\\\\Users\\\\Main\\\\yanky fridman\\\\parshat_beshalach_formatted.docx\")",
+      "Bash(dir \"c:\\\\Users\\\\Main\\\\yanky fridman\\\\summaries_index*\")",
+      "Bash(git add:*)"
+    ]
+  }
+}
